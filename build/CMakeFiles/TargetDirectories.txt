@@ -1,0 +1,6 @@
+/data/cqy/1212mutithreads/build/CMakeFiles/numap.dir
+/data/cqy/1212mutithreads/build/CMakeFiles/edit_cache.dir
+/data/cqy/1212mutithreads/build/CMakeFiles/rebuild_cache.dir
+/data/cqy/1212mutithreads/build/src/CMakeFiles/main.dir
+/data/cqy/1212mutithreads/build/src/CMakeFiles/edit_cache.dir
+/data/cqy/1212mutithreads/build/src/CMakeFiles/rebuild_cache.dir

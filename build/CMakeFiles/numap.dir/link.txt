@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared -Wl,-soname,libnumap.so -o ../lib/libnumap.so CMakeFiles/numap.dir/src/numap.c.o CMakeFiles/numap.dir/src/numap_analyse.c.o CMakeFiles/numap.dir/src/handle.c.o  -lnuma -lpfm 
